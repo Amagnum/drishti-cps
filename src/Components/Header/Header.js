@@ -40,7 +40,7 @@ export default class Header extends Component {
                                 </NavItem>
                                 <UncontrolledDropdown nav inNavbar>
                                     <DropdownToggle nav>
-                                        <NavLink className="nav-link about" to='/about'>About</NavLink>
+                                        <NavItem className="nav-link about">About</NavItem>
                                     </DropdownToggle>
                                     <DropdownMenu left>
                                         <DropdownItem>
