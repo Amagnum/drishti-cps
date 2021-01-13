@@ -24,7 +24,7 @@ function Footer() {
                     <h4>Contact Us</h4>
                     <p>Indian Institute of Technology Indore, Khandwa Road, Simrol, Indore 453552, India</p>
                     <li><img src="assets/call.svg" height="20" alt="call" /> 020 88292293</li>
-                    <li><img src="assets/email.svg" height="20" alt="call" /> drishticps@iiti.ac.in</li>
+                    <li><img src="assets/email.svg" height="20" alt="call" /> iitidrishticps@iiti.ac.in</li>
                 </div>
                 <div className="col-12 col-md-4 newsletter">
                     <h4>Subscribe to our newsletter</h4>

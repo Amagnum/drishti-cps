@@ -1,0 +1,20 @@
+.nav-tabs {
+  display: flex !important;
+  justify-content: center !important;
+  border-bottom: none !important;
+}
+
+.nav-tabs a.nav-link {
+  border: 1px solid #ddd;
+  cursor: pointer;
+  color: inherit;
+}
+
+.nav-tabs .active {
+  background-color: rgb(207, 207, 207) !important;
+}
+
+.tab-content {
+  border: 1px solid #ddd;
+  padding: 1rem;
+}

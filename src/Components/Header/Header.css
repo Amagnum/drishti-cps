@@ -3,7 +3,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  background: #521751 !important;
+  background: #003863 !important;
   z-index: 999;
 }
 
@@ -17,7 +17,7 @@
 
 div.dropdown-menu,
 .show {
-  background: #521751 !important;
+  background: #003863 !important;
   transition: 0.5s ease-in-out !important;
 }
 
