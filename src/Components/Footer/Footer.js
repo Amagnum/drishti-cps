@@ -116,7 +116,7 @@ function Footer() {
               Indore 453552, India
             </p>
             <li></li>
-            <li>iitidrishticps@iiti.ac.in</li>
+            <li>officedrishti@iiti.ac.in</li>
           </div>
           <div className="col-12 col-md-4 newsletter">
             <h4>Subscribe to our newsletter</h4>
@@ -126,28 +126,28 @@ function Footer() {
         </div>
         <div className="row footer-content">
           <ul>
-            <li>
+            <li style={{ backgroundColor: "#FFF", padding: "0.5rem" }}>
               <a href="#">
                 <span>
                   <img height="30" src="assets/linkedin.svg" alt="linkedin" />
                 </span>
               </a>
             </li>
-            <li>
+            <li style={{ backgroundColor: "#FFF", padding: "0.5rem" }}>
               <a href="#">
                 <span>
                   <img height="30" src="assets/facebook.svg" alt="facebook" />
                 </span>
               </a>
             </li>
-            <li>
+            <li style={{ backgroundColor: "#FFF", padding: "0.5rem" }}>
               <a href="#">
                 <span>
                   <img height="30" src="assets/twitter.svg" alt="twitter" />
                 </span>
               </a>
             </li>
-            <li>
+            <li style={{ backgroundColor: "#FFF", padding: "0.5rem" }}>
               <a href="#">
                 <span>
                   <img height="30" src="assets/instagram.svg" alt="instagram" />
@@ -158,8 +158,7 @@ function Footer() {
         </div>
         <div className="row copyright">
           <p>
-            Copyright © 2020 DRISHTI CPS : Society for Innovation and
-            Entrepreneurship, IIT Indore. All Rights Reserved
+            Copyright © 2020 IITI DRISHTI CPS FOUNDATION All Rights Reserved
           </p>
         </div>
       </div>

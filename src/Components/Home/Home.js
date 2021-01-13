@@ -34,19 +34,20 @@ function Home() {
         <div className="row row-content">
           <div className="row-caption">
             <center>
-              <h3>
+              <h3 style={{ marginBottom: "10px" }}>
                 About <br />
                 IITI Drishti CPS
               </h3>
+              <h5 style={{ marginBottom: "2rem" }}> FOUNDATION </h5>
             </center>
           </div>
           <div className="col-12 col-md-10 m-auto">
             <center style={{ fontSize: "1.3rem" }}>
-              The overarching goal of DRISHTI-CPS is to develop an ecosystem
-              that will enable knowledge generation through basic and applied
-              research and foster an interactive environment where innovative
-              products can be developed through joint efforts of industry and
-              academia.
+              The overarching goal of IITI DRISHTI-CPS Foundation is to develop
+              an ecosystem that will enable knowledge generation through basic
+              and applied research and foster an interactive environment where
+              innovative products can be developed through joint efforts of
+              industry and academia.
             </center>
           </div>
         </div>

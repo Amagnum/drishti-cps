@@ -20,7 +20,7 @@ function App() {
         <Route exact path="/about/4" component={Coreteam} />
         {/* <Route path="/about" /> */}
         <Route path="/programmes" />
-        <Route path="/partners" />
+        <Route path="/spokes" />
         <Route path="/portfolio" />
         <Route path="/connect" />
         <Route path="/testimonials" />

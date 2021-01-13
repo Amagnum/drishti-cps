@@ -95,7 +95,7 @@ export default class Header extends Component {
                 </NavItem>
                 <NavItem onClick={this.toggleNav}>
                   <NavLink className="nav-link" to="/partners">
-                    Partners
+                    Spokes
                   </NavLink>
                 </NavItem>
                 <NavItem onClick={this.toggleNav}>
