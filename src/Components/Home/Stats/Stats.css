@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 1rem;
 }
 
 .stats img {
@@ -10,7 +11,7 @@
 
 .stats h3 {
   margin: 1rem 0 0.5rem 0;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   color: rgb(83, 141, 248);
   text-transform: uppercase;
 }

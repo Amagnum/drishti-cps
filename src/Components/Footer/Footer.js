@@ -41,7 +41,7 @@ function Footer() {
                 </ul>
             </div>
             <div className="row copyright">
-                <p>Copyright © 2020 DRISHTI CPS : Society for Innovation and Entrepreneurship, IIT Indore. All Rights Reserved</p>
+                <p>Copyright © 2021 DRISHTI CPS : Society for Innovation and Entrepreneurship, IIT Indore. All Rights Reserved.</p>
             </div>
         </footer>
     )
