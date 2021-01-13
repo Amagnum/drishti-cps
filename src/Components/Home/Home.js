@@ -41,7 +41,7 @@ function Home() {
             </center>
           </div>
           <div className="col-12 col-md-10 m-auto">
-            <center>
+            <center style={{ fontSize: "1.3rem" }}>
               The overarching goal of DRISHTI-CPS is to develop an ecosystem
               that will enable knowledge generation through basic and applied
               research and foster an interactive environment where innovative

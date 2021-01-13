@@ -44,7 +44,10 @@ export default class Header extends Component {
           <div className="container">
             <NavbarToggler onClick={this.toggleNav} />
             <NavbarBrand className="nav__brand" href="/home">
-              IITI DRISHTI CPS
+              <b>
+                {" "}
+                IITI DRISHTI CPS <h6> Foundation </h6>
+              </b>
             </NavbarBrand>
             <Collapse isOpen={this.state.isNavOpen} navbar>
               <Nav className="ml-auto nav__items align-items-center" navbar>

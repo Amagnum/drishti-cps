@@ -18,9 +18,10 @@ const Tabs = (props) => {
             onClick={() => {
               toggle("1");
             }}
-            className={activeTab === "1" && "active"}
+            style={{ padding: "1rem" }}
+            className={activeTab === "1" && "active m-auto"}
           >
-            Overview
+            <h3>Overview</h3>
           </NavLink>
         </NavItem>
         <NavItem>
@@ -28,9 +29,10 @@ const Tabs = (props) => {
             onClick={() => {
               toggle("2");
             }}
-            className={activeTab === "2" && "active"}
+            style={{ padding: "1rem" }}
+            className={activeTab === "2" && "active m-auto"}
           >
-            Vision
+            <h3>Vision</h3>
           </NavLink>
         </NavItem>
         <NavItem>
@@ -38,9 +40,10 @@ const Tabs = (props) => {
             onClick={() => {
               toggle("3");
             }}
-            className={activeTab === "3" && "active"}
+            style={{ padding: "1rem" }}
+            className={activeTab === "3" && "active m-auto"}
           >
-            Mission
+            <h3>Mission</h3>
           </NavLink>
         </NavItem>
       </Nav>
