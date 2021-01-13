@@ -14,7 +14,7 @@ function Governingbody() {
         <div className="mt-3 mb-3">
           <header className="heading-0">
             <h1>
-              <strong>DRISHTI Hub Governing Body</strong>
+              <strong>Hub Governing Body</strong>
             </h1>
           </header>
         </div>
@@ -24,7 +24,7 @@ function Governingbody() {
       <hr className="border" />
       <div className="row">
         <div className="mb-2 mt-5 col-12">
-          <h2 className="heading-1">Project Director</h2>
+          <h2 className="heading-1">Chairman</h2>
         </div>
       </div>
       <div className="row">
@@ -46,31 +46,8 @@ function Governingbody() {
         </div>
       </div>
       <div className="row">
-        <div className="mb-2  mt-5 col-12">
-          <h2 className="heading-1">Mission Director, Mission Office, DST</h2>
-        </div>
-      </div>
-      <div className="row">
-        <div className="mb-5 col-12">
-          <div className="pic">
-            <img src="" alt="" />
-          </div>
-          <h4 className="heading-2">
-            <strong>
-              ??
-              <br />
-            </strong>
-          </h4>
-          <h5 className="heading-2">
-            ASSOCIATE PROFESSOR,
-            <br />
-            IIT INDORE
-          </h5>
-        </div>
-      </div>
-      <div className="row">
         <div className="mb-2 mt-5 col-12">
-          <h2 className="heading-1">Academic representative</h2>
+          <h2 className="heading-1">Academic representatives</h2>
         </div>
       </div>
       <div className="row">
@@ -170,7 +147,7 @@ function Governingbody() {
       </div>
       <div className="row">
         <div className="mb-2 mt-5 col-12">
-          <h2 className="heading-1">Industry representative</h2>
+          <h2 className="heading-1">Industry representatives</h2>
         </div>
       </div>
       <div className="row">
@@ -222,6 +199,29 @@ function Governingbody() {
             FOUNDER & CHIEF OPERATIONS OFFICER,
             <br />
             CYBER INFRASTRUCTURE (P) LTD., INDORE
+          </h5>
+        </div>
+      </div>
+      <div className="row">
+        <div className="mb-2  mt-5 col-12">
+          <h2 className="heading-1">Mission Director, Mission Office, DST</h2>
+        </div>
+      </div>
+      <div className="row">
+        <div className="mb-5 col-12">
+          <div className="pic">
+            <img src="" alt="" />
+          </div>
+          <h4 className="heading-2">
+            <strong>
+              ??
+              <br />
+            </strong>
+          </h4>
+          <h5 className="heading-2">
+            ASSOCIATE PROFESSOR,
+            <br />
+            IIT INDORE
           </h5>
         </div>
       </div>

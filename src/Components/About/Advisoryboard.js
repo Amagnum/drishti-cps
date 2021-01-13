@@ -34,9 +34,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
 
@@ -51,9 +49,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
 
@@ -68,9 +64,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
       </div>
@@ -86,9 +80,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
 
@@ -103,9 +95,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
 
@@ -120,9 +110,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
       </div>
@@ -138,9 +126,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
 
@@ -155,9 +141,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
 
@@ -172,9 +156,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
       </div>
@@ -190,9 +172,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
 
@@ -207,9 +187,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
 
@@ -224,9 +202,7 @@ function Advisoryboard() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            PROFESSOR,
             <br />
-            IIT INDORE
           </h5>
         </div>
       </div>

@@ -90,7 +90,7 @@ function Coreteam() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            ASSOCIATE PROFESSOR,
+            PROFESSOR,
             <br />
             IIT INDORE
           </h5>
@@ -177,7 +177,7 @@ function Coreteam() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            ASSOCIATE PROFESSOR,
+            ASSISTANT PROFESSOR,
             <br />
             IIT INDORE
           </h5>
@@ -198,7 +198,7 @@ function Coreteam() {
             </strong>
           </h4>
           <h5 className="heading-2">
-            ASSOCIATE PROFESSOR,
+            ASSISTANT PROFESSOR,
             <br />
             IIT INDORE
           </h5>

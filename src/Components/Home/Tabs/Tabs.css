@@ -5,16 +5,15 @@
 }
 
 .nav-tabs a.nav-link {
-  border: 1px solid #ddd;
   cursor: pointer;
   color: inherit;
 }
 
 .nav-tabs .active {
-  background-color: rgb(207, 207, 207) !important;
+  background-color: rgb(247, 247, 247) !important;
 }
 
 .tab-content {
-  border: 1px solid #ddd;
-  padding: 1rem;
+  background-color: rgb(247, 247, 247) !important;
+  padding: 3rem;
 }

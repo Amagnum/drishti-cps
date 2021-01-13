@@ -7,13 +7,21 @@
 .links {
   margin-bottom: 1rem;
 }
+.links h4 {
+  padding-bottom: 20px;
+}
 .contact {
   margin-bottom: 1rem;
+}
+.contact h4 {
+  padding-bottom: 20px;
 }
 .newsletter {
   margin-bottom: 1rem;
 }
-
+.newsletter h4 {
+  padding-bottom: 20px;
+}
 .links li a {
   color: #ddd;
   font-size: 1.1rem;
@@ -66,4 +74,7 @@
   margin: 1rem 0 0 0;
   display: flex;
   justify-content: center;
+}
+.footer_table td {
+  padding-right: 50px;
 }

@@ -13,7 +13,11 @@ function Home() {
       <div className="main">
         <div className="main-contents">
           <h3>
-            An ecosystem that converts <br /> ideas into products.
+            <span> An ecosystem that</span>
+            <br />
+            <span> converts ideas into </span>
+            <br />
+            <span> products.</span>
           </h3>
           <h5>IITI DRISHTI CPS FOUNDATION</h5>
         </div>
@@ -29,22 +33,21 @@ function Home() {
         </div>
         <div className="row row-content">
           <div className="row-caption">
-            <h3>
-              About <br />
-              IITI Drishti CPS
-            </h3>
+            <center>
+              <h3>
+                About <br />
+                IITI Drishti CPS
+              </h3>
+            </center>
           </div>
           <div className="col-12 col-md-10 m-auto">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
-            laudantium inventore, quidem quibusdam accusantium dolorum
-            praesentium rerum omnis fugiat, nostrum voluptatem voluptatum
-            reprehenderit, corrupti earum nobis voluptates voluptas recusandae
-            aperiam repudiandae eligendi iure eius. Voluptate nesciunt minima
-            amet. Sint culpa assumenda placeat. Reiciendis ea rerum, veritatis
-            error voluptatum quis doloribus nostrum minima aliquam vitae, ab
-            maiores, sequi reprehenderit. Error, ipsa repellat possimus sapiente
-            aliquam non harum perspiciatis enim temporibus, sed laboriosam esse
-            reiciendis fugit veniam.
+            <center>
+              The overarching goal of DRISHTI-CPS is to develop an ecosystem
+              that will enable knowledge generation through basic and applied
+              research and foster an interactive environment where innovative
+              products can be developed through joint efforts of industry and
+              academia.
+            </center>
           </div>
         </div>
         <div className="row row-content tabs">
@@ -52,32 +55,42 @@ function Home() {
             <Tabs />
           </div>
         </div>
-        <div className="row row-content">
-          <div className="row-caption">
-            <h3>Impact</h3>
+      </div>
+      <div
+        style={{
+          backgroundColor: "#f3f3f3ff",
+          paddingBottom: "1rem",
+          marginTop: "-4rem"
+        }}
+      >
+        <center>
+          <div className="container row row-content">
+            <div className="row-caption">
+              <h3>Impact</h3>
+            </div>
+            <div className="col-12 col-md-4">
+              <Stats
+                src="assets/startups.svg"
+                caption1="Supporting"
+                caption2="Startups"
+              />
+            </div>
+            <div className="col-12 col-md-4">
+              <Stats
+                src="assets/employement.svg"
+                caption1="Creating"
+                caption2="Employment"
+              />
+            </div>
+            <div className="col-12 col-md-4">
+              <Stats
+                src="assets/entrepreneurs.svg"
+                caption1="Building"
+                caption2="Entrepreneurs"
+              />
+            </div>
           </div>
-          <div className="col-12 col-md-4">
-            <Stats
-              src="assets/startups.svg"
-              caption1="Supporting"
-              caption2="Startups"
-            />
-          </div>
-          <div className="col-12 col-md-4">
-            <Stats
-              src="assets/employement.svg"
-              caption1="Creating"
-              caption2="Employment"
-            />
-          </div>
-          <div className="col-12 col-md-4">
-            <Stats
-              src="assets/entrepreneurs.svg"
-              caption1="Building"
-              caption2="Entrepreneurs"
-            />
-          </div>
-        </div>
+        </center>
       </div>
     </>
   );
