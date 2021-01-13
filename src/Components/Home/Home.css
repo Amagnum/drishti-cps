@@ -22,7 +22,8 @@
 .main {
   height: 100vh !important;
   width: 100% !important;
-  background: url("../../shared/bg3.jpg") !important;
+  max-height: 40rem;
+  background: url("assets/mountain.jpg") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   background-position: center !important;
@@ -40,7 +41,7 @@
   font-size: 2rem;
 }
 
-.main-contents h5 {
+.main-contents h6 {
   text-transform: uppercase;
   font-size: 1.5rem;
 }
