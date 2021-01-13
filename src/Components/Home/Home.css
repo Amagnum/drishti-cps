@@ -18,3 +18,29 @@
   background-size: 100% auto;
   transform: translate(0, -20%);
 }
+
+.main {
+  height: 100vh !important;
+  width: 100% !important;
+  background: url("../../shared/bg3.jpg") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.main .main-contents {
+  position: relative;
+  top: 10rem;
+  color: white;
+  padding: 5rem;
+}
+
+.main-contents h3 {
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+
+.main-contents h5 {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+}
